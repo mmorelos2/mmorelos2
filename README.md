@@ -7,7 +7,7 @@ Software Engineer
 * 🌍  I'm based in Texas
 * 🖥️  See my portfolio at [mmorelos2.github.io](http://mmorelos2.github.io)
 * ✉️  You can contact me at [morelos.marioluis@gmail.com](mailto:morelos.marioluis@gmail.com)
-* 🧠  I'm learning about Docker | Redis 
+* 🧠  I'm learning about system design
 
 ### Skills
 
